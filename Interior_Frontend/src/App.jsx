@@ -8,6 +8,7 @@ import Bottom from './components/Bottom'
 import Banner from './components/Banner'
 import ModularKitchen from './components/Modularkitchen'
 import LivingRoom from './components/LivingRoom'
+import Book from './components/Book'
 
 function App() {
 
@@ -18,10 +19,11 @@ function App() {
     <Services />
     <AboutUs />
     <WhatsAppFloating />
+    <Book />
     <Bottom />
-    {/* <ModularKitchen /> */}
+    <ModularKitchen />
     {/* <Portfolio /> */}
-    {/* <LivingRoom /> */}
+    <LivingRoom />
     </>
   )
 }
