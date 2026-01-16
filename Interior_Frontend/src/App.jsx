@@ -14,14 +14,14 @@ function App() {
 
   return (
     <>
-    {/* <Navbar /> */}
-    {/* <Banner /> */}
-    {/* <Services /> */}
-    {/* <AboutUs /> */}
-    {/* <WhatsAppFloating /> */}
-    <Book />
-    {/* <Bottom /> */}
-    {/* <ModularKitchen /> */}
+    <Navbar />
+    <Banner />
+    <Services />
+    <ModularKitchen />
+    <AboutUs />
+    <WhatsAppFloating />
+    {/* <Book /> */}
+    <Bottom />
     {/* <Portfolio /> */}
     {/* <LivingRoom /> */}
     </>
